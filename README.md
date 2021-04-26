@@ -28,7 +28,7 @@ The New York Times limits call rates to 10 per minute and 4000 per day. It also 
 
 While they make it very easy to access some data, they also make it very hard to access article text. Because they limit the call rate from IPs, it is particularly difficult to get NYTimes article text past the first paragraph.
 
-### Scraping Wall Street Journal opinion articless
+### Scraping Wall Street Journal opinion articles
 
 The Wall Street Journal has no publicly available API to retrieve articles. Hence, we wrote a python script using BeautifulSoup to scrape the necessary text.
 
