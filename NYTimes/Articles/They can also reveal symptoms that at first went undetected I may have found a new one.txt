@@ -1,0 +1,1 @@
+Every day, millions of people around the world type their health symptoms into Google. We can use these searches to help detect unknown Covid-19 outbreaks, particularly in parts of the world with poor testing infrastructure. 
