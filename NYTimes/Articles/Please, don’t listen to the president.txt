@@ -1,1 +1,0 @@
-Count all the votes. 

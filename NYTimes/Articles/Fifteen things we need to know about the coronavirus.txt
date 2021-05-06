@@ -1,1 +1,0 @@
-Doctors caring for patients track vital signs of temperature, blood pressure, breathing and pulse. Public health doctors fighting epidemics do something similar — they track the most important indicators of the spread of a disease and attempts to control it. 
