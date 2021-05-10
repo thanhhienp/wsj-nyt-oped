@@ -11,4 +11,4 @@ A different attempt to identify 25 most prominent topics in the combined collect
 
 ![Word clouds of Covid-related topics from two news sources analyzed together](/wordclouds/comparisons/health-covid-25-all.png)
 
-(WIP - to be updated further)
+(WIP - to be updated)
